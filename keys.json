@@ -1,0 +1,29 @@
+{
+  "servers": [
+    {
+      "id": "netherlands",
+      "accessKey": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc=@208.67.106.73:44884#Netherlands%20#33042%20/%20OutlineKeys.com",
+      "name": "Netherlands"
+    },
+    {
+      "id": "uk-1",
+      "accessKey": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MmYzYTgzZjE1NTZjMGUz@57.129.129.247:29757#United Kingdom%20#33015%20/%20OutlineKeys.com",
+      "name": "United Kingdom 1"
+    },
+    {
+      "id": "germany",
+      "accessKey": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMTBiZDI1YjIxOTk1ZTU2@135.125.219.2:40266#Germany%20#33013%20/%20OutlineKeys.com",
+      "name": "Germany"
+    },
+    {
+      "id": "france-1",
+      "accessKey": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqUDRaOUozUzZ0QWxkQ2FTZEN0YVpSN2dadFY3clFnMA==@64.31.63.92:443#France%20#32989%20/%20OutlineKeys.com",
+      "name": "France 1"
+    },
+    {
+      "id": "lithuania",
+      "accessKey": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOUVJDaC1xbTExR0g5TWFSV1g5TmRtU2RXYUdSaEZlUw==@5.199.173.116:5228#Lithuania%20#32971%20/%20OutlineKeys.com",
+      "name": "Lithuania"
+    }
+  ]
+}
