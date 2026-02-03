@@ -1,9 +1,9 @@
 {
   "servers": [
     {
-      "id": "netherlands",
-      "accessKey": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc=@208.67.106.73:44884#Netherlands%20#33042%20/%20OutlineKeys.com",
-      "name": "Netherlands"
+      "id": "Finland",
+      "accessKey": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.129.98:990#Finland%20#33468%20/%20OutlineKeys.com",
+      "name": "Finland"
     },
     {
       "id": "uk-1",
